@@ -7,7 +7,7 @@
 date_default_timezone_set('Asia/Tehran');
 error_reporting(0);
 #-----------------------------#
-$token = "dsmkdsms"; //توکن
+$token = "6563796150:AAG_1FKXRxWtUczFpYg2a-XSOYJop6USetw"; //توکن
 #-----------------------------#
 define('API_KEY', $token);
 #-----------------------------#
